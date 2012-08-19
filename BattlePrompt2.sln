@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattlePrompt2", "BattlePrompt2\BattlePrompt2.csproj", "{0DBD5D77-F90D-43C9-B3D0-FC763360FB35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NacLibrary", "..\..\..\Libraries\NacLibrary\NacLibrary\NacLibrary.csproj", "{222665C8-9BB1-402F-8CA5-5698959146E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NacLibrary", "NacLibrary\NacLibrary.csproj", "{222665C8-9BB1-402F-8CA5-5698959146E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

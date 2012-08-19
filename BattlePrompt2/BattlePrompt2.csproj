@@ -60,7 +60,7 @@
     <Compile Include="Tactics.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Libraries\NacLibrary\NacLibrary\NacLibrary.csproj">
+    <ProjectReference Include="..\NacLibrary\NacLibrary.csproj">
       <Project>{222665C8-9BB1-402F-8CA5-5698959146E7}</Project>
       <Name>NacLibrary</Name>
     </ProjectReference>
